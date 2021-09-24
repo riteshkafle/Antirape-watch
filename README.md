@@ -29,8 +29,8 @@ Arduino Uno R3 Board (ATmega328),
 Buzzer 
 
                              Circuit Connection: 
+![circuit diagram](https://user-images.githubusercontent.com/85400895/134733227-1ff95c27-ce35-4cf8-a927-2f6301dd6053.JPG)
 
-![circuit](https://user-images.githubusercontent.com/85400895/134727950-6b2f16d5-ee89-434b-9f5d-717630eefe9f.png)
 
                          
 
