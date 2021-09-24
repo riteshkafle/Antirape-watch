@@ -4,7 +4,7 @@ Anti-rape System is an IoT based project whose central idea is to provide securi
 
 ![anti rape watch](https://user-images.githubusercontent.com/85400895/134727278-11fad52f-76ee-4e46-a96e-dd816b0242d4.png)
 
-                             # Working Mechanism 
+                              Working Mechanism 
 
 There will be two systems watch and server. The watch consists of arduino, GSM module ,GPS sensor ,transmitter. When a button is pressed, the signals get triggered and GPS sensor generates the location in the form of latitude and longitude. The values of latitude and longitude are stored in two different variables. The sample message is created saying "I am in danger. Please rescue me ." The link is also created using latitude and longitude variables that redirect to Google maps url. Then the message is sent to the local authorities phone number which will be set by the programmer during watch construction.
 
@@ -18,17 +18,17 @@ The watch is rechargeable. The charger is given to victim. The watch works well 
 
 ![server box](https://user-images.githubusercontent.com/85400895/134727566-8a235942-b1bf-48c2-8d00-49f87c57feaa.png)
 
-                               # Components Used 
+                                Components Used 
 
-Arduino Nano 
-RF Module 433 MHz 
-Two Channel Relay Module 
-NEO-6M GPS Module
-Arduino Uno R3 Board (ATmega328)
-16*2 LCD Module
+Arduino Nano,
+RF Module 433 MHz, 
+Two Channel Relay Module, 
+NEO-6M GPS Module,
+Arduino Uno R3 Board (ATmega328),
+16*2 LCD Module &
 Buzzer 
 
-                            # Circuit Connection: 
+                             Circuit Connection: 
 
 ![circuit](https://user-images.githubusercontent.com/85400895/134727950-6b2f16d5-ee89-434b-9f5d-717630eefe9f.png)
 
