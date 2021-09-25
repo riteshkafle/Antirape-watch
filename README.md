@@ -30,6 +30,9 @@ Arduino Uno R3 Board (ATmega328),
 16*2 LCD Module &
 Buzzer 
 
+![station components](https://user-images.githubusercontent.com/85400895/134757822-ebe29ba1-ce28-46c9-9849-63364eea9aef.JPG)
+
+
                              Circuit Connection: 
 ![circuit diagram](https://user-images.githubusercontent.com/85400895/134733227-1ff95c27-ce35-4cf8-a927-2f6301dd6053.JPG)
 
