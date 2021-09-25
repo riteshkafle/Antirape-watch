@@ -16,7 +16,9 @@ The message can be sent to the police personal number of station number anywhere
 
 The watch is rechargeable. The charger is given to victim. The watch works well more than 8 hours once it is fully charged.The server box can work on both AC as well as DC.
 
-![server box](https://user-images.githubusercontent.com/85400895/134727566-8a235942-b1bf-48c2-8d00-49f87c57feaa.png)
+![server box](https://user-images.githubusercontent.com/85400895/134727566-8a235942-b1bf-48c2-8d00-49f87c57feaa.png) 
+![working mechanism](https://user-images.githubusercontent.com/85400895/134757652-d54fcf91-58fd-464b-b378-867c8ae8589f.JPG)
+
 
                                 Components Used 
 
